@@ -1,6 +1,6 @@
 {
-  "source": "C:\\Users\\mario\\OneDrive\\Desktop\\Alexandria\\HolyDS\\time-series\\time-series-scripts\\prototipo_v3\\prototipo_v3.py",
-  "source_sha256": "56bc65aceee3ec4a752ea8198257822c75f3ff1f55fe03b286671df14eff6e08",
+  "source": "C:\\Users\\mario\\OneDrive\\Desktop\\Alexandria\\HolyDS\\time-series\\SUBIR_MMD\\01_GITHUB\\time-series-scripts\\prototipo_v3\\prototipo_v3.py",
+  "source_sha256": "5454fdf38935416c00eb6f83e8c0fc104ad3e9a336ad59885d984db093944fe3",
   "semilla_por_escenario": 42,
   "simulaciones": 1000,
   "replicas_wb": 1000,
@@ -16,7 +16,7 @@
       "p95_mc": 0.05935171579048371,
       "p95_wb": 0.05966581455338526,
       "error_relativo_porcentaje": 0.5292159775301862,
-      "segundos": 0.25686030000360915
+      "segundos": 0.26676990000123624
     },
     {
       "n": 50,
@@ -27,7 +27,7 @@
       "p95_mc": 0.05347171637099155,
       "p95_wb": 0.05271806374768986,
       "error_relativo_porcentaje": -1.4094416159615788,
-      "segundos": 0.2231309999988298
+      "segundos": 0.14821720000327332
     },
     {
       "n": 50,
@@ -38,7 +38,7 @@
       "p95_mc": 0.04540562154356737,
       "p95_wb": 0.041379249750362536,
       "error_relativo_porcentaje": -8.867562333314769,
-      "segundos": 0.2762510000029579
+      "segundos": 0.16310209999937797
     },
     {
       "n": 500,
@@ -49,7 +49,7 @@
       "p95_mc": 0.00548325025288586,
       "p95_wb": 0.005636817417745622,
       "error_relativo_porcentaje": 2.800659422373408,
-      "segundos": 17.569735799996124
+      "segundos": 9.60888580000028
     },
     {
       "n": 500,
@@ -60,7 +60,7 @@
       "p95_mc": 0.004744946983127924,
       "p95_wb": 0.005048381615458212,
       "error_relativo_porcentaje": 6.394900373159938,
-      "segundos": 33.78781880000315
+      "segundos": 18.94190950000484
     },
     {
       "n": 500,
@@ -71,7 +71,7 @@
       "p95_mc": 0.004201527715860609,
       "p95_wb": 0.004053974308574779,
       "error_relativo_porcentaje": -3.511898939255391,
-      "segundos": 54.779217999996035
+      "segundos": 27.780080600001384
     }
   ]
 }
